@@ -1,0 +1,7 @@
+key,amount,date,traderId,tradingEnergyPrice,tradingSymbol
+nodeA_asset1,19,2019-01-01,nodeA,750,nodeA_asset1
+nodeA_asset2,16,2019-01-02,nodeA,750,nodeA_asset2
+nodeA_asset3,16,2019-01-03,nodeA,750,nodeA_asset3
+nodeA_asset4,14,2019-01-04,nodeA,750,nodeA_asset4
+nodeA_asset5,21,2019-01-05,nodeA,750,nodeA_asset5
+nodeA_asset6,17,2019-01-06,nodeA,750,nodeA_asset6
